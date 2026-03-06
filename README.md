@@ -114,7 +114,3 @@ The contract minimizes gas costs through:
 - **Input Validation**: All functions validate addresses, tokenIds, and authorization before state mutations
 - **Custom Errors**: Clear, specific error types for every failure mode
 - **Access Control**: Centralized `onlyOwner` modifier for admin operations
-
-## License
-
-MIT
